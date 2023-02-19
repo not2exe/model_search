@@ -2,11 +2,15 @@
 
 ![header](https://raw.githubusercontent.com/google/model_search/master/model_search/images/model_search_logo.png)
 
-Third change from branch 2
+Third change from branch2
+
+Third change from branch1
+
 Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
 aims to help researchers speed up their exploration process for finding the right
 model architecture for their classification problems (i.e., DNNs with different types of layers).
-This is second change from branch2
+Second change from branch1
+
 The library enables you to:
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
